@@ -1,0 +1,6 @@
+{
+  "name": "CivicShield AI - SDG 11 Urban Resilience Platform",
+  "description": "AI-powered urban environmental risk forecasting, municipal issue detection, flood prediction, and emergency response platform for UN SDG 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
